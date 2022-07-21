@@ -39,7 +39,13 @@ public class UserController {
 			new User(11, "Moussa Diouf", "diouf.moussa@user.com", "+221775462105", true, 34),
 			new User(12, "Mouhamed Ndour", "ndour.mouhamed@user.com", "+221765849214", true, 48),
 			new User(13, "Soda Ndoye", "ndoye.soda@user.com", "+221765482145", false, 25),
-			new User(14, "Binta Mbaye", "mbaye.binta@user.com", "+221778542145", true, 13)
+			new User(14, "Binta Mbaye", "mbaye.binta@user.com", "+221778542145", true, 13),
+		        new User(15, "Adama Seck", "seck.adama@user.com", "+221778542145", true, 13),
+		        new User(16, "Badara Camara", "camara.badara@user.com", "+221778542145", true, 13),
+		        new User(17, "Aminata Sow", "sow.aminata@user.com", "+221778542145", true, 13),
+		        new User(18, "Baye Mbaye", "baye.mbaye@user.com", "+221778542145", true, 13),
+		        new User(19, "Mounass Bah", "bah.mounass@user.com", "+221778542145", true, 13),
+		        new User(20, "Saliou Diop", "diop.saliou@user.com", "+221778542145", true, 13)
 	);
 	
 	/**
